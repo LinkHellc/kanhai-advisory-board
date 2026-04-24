@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "advisors": {
+    "active": [
+      "Paul Graham",
+      "张一鸣",
+      "Karpathy",
+      "Ilya Sutskever",
+      "MrBeast",
+      "特朗普",
+      "乔布斯",
+      "马斯克",
+      "芒格",
+      "费曼",
+      "纳瓦尔",
+      "塔勒布",
+      "张雪峰"
+    ],
+    "candidates": []
+  },
+  "userProfile": {
+    "name": null,
+    "background": null,
+    "projectType": null,
+    "projectStage": null,
+    "goals": [],
+    "constraints": {
+      "budget": null,
+      "timeline": null,
+      "teamSize": null
+    },
+    "experienceLevel": null,
+    "riskTolerance": null,
+    "preferences": {
+      "preferredAdvisors": [],
+      "responseStyle": "详细"
+    }
+  },
+  "conversationHistory": [],
+  "keyInsights": [],
+  "preferences": {
+    "autoConsult": true,
+    "elicitThreshold": "moderate",
+    "rememberFacts": true
+  },
+  "metadata": {
+    "createdAt": "2026-04-24T00:00:00.000Z",
+    "updatedAt": "2026-04-24T00:00:00.000Z",
+    "sessionCount": 0
+  }
+}
